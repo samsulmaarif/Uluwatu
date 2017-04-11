@@ -41,8 +41,8 @@
 
 ## Dokumentasi
 - [Faiq Aminuddin](https://github.com/FaiqAminuddin) (Koordinator)
-- Umul Sidiqoh
-- Tris Faizal
+- [Umul Sidiqoh](https://github.com/umulsidikoh)
+- [TRISFAIZAL](https://github.com/trisfaizal)
 - Adnan Maulanan
 - Laili Alfi Arfiyatin
 - Endra Yustina Arianto
@@ -56,6 +56,7 @@
 - Musthofa fahmi
 - Andika fauzi
 - Barep Setyadi
+- guspur
 - [Firman wahyudi](https://github.com/firmanwyd)
 
 ## Jaminan Kualitas
